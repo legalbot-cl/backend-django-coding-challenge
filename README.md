@@ -47,7 +47,7 @@ Desarrolla una API REST utilizando Django para gestionar un sistema de sociedade
 - Incluye algunos test unitarios
     
 
-## Puntos extras (opcionales, puedes seleccionar sólo uno):
+## Puntos extras:
 
 - Implementa autenticación y autorización en la API para proteger los endpoints.
 - Incluir un test de integración o E2E
